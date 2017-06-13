@@ -1,0 +1,118 @@
+body{
+	background: url(img/background.png) no-repeat fixed 50% 50%;
+	background-color: #0F1010;
+	color: white;
+	font-family: Tahoma;
+	font-size: 10px;
+}
+
+.logo img{
+	position: fixed;
+	top: 132px;
+	left: 240px;
+}
+.palm img{
+	position: fixed;
+	top: 67px;
+	left: 335px;
+	/*border: 3px solid white;*/
+}
+.logo p{
+	display: inline-block;
+	position: relative;
+	top: 159px;
+	left: 317px;
+}
+
+.box{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	width: 823px;
+	height: 451px;
+	position: absolute;
+	top: 221px;
+	left: 230px;
+	margin: 0;
+}
+.img1{
+	position: absolute;
+	top: 216px;
+	left: 234px;
+}
+
+.img2{
+	position: absolute;
+	top: 216px;
+	left: 507px;
+}
+
+.img3{
+	position: absolute;
+	top: 216px;
+	left: 781px;
+}
+
+.img4{
+	position: absolute;
+	top: 444px;
+	left: 234px;
+}
+.img5{
+	position: absolute;
+	top: 444px;
+	left: 507px;
+}
+.img6{
+	position: absolute;
+	top: 444px;
+	left: 781px;
+}
+.cont{
+position:absolute;
+top:144px;
+right: 240px;
+line-height: 50%;
+}
+
+.cop{
+	position:absolute;
+	bottom: 46px;
+	left: 567px
+}
+.name1{
+font-size:15px;
+position:absolute;
+top:400px;
+left: 350px;
+}
+.name2{
+font-size:15px;
+position:absolute;
+top:400px;
+left: 625px;
+}
+.name3{
+font-size:15px;
+position:absolute;
+top:400px;
+left: 900px;
+}
+.name4{
+font-size:15px;
+position:absolute;
+top:630px;
+left: 350px;
+}
+.name5{
+font-size:15px;
+position:absolute;
+top:630px;
+left: 625px;
+}
+.name6{
+font-size:15px;
+position:absolute;
+top:630px;
+left: 900px;
+}
