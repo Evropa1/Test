@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("img/background.jpg");
+    width: 1280px;
+    height: 1060px;
+}
+
+.main {
+    background: url("img/white-main.png");
+    width: 1018px;
+    height: 991px;
+    margin: auto;
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 11px;
+    left: 37px;
+}
+
+.logo p {
+    position: absolute;
+    top: 86px;
+    left: 76px;
+    color: #128aa7;
+    font-size: 12px;
+    font-style: Tahoma;
+}
+
+.cont {
+    width: 124px;
+    height: 67px;
+    position: absolute;
+    top: 11px;
+    right: 42px;
+    color: #128aa7;
+    font-size: 12px;
+    font-style: Tahoma;
+}
+
+.photo img {
+    position: absolute;
+    top: 176px;
+    left: 1%;
+    width: 1000px;
+    height: 235px;
+}
+
+.blue-lines {
+    position: absolute;
+    top: 175px;
+    left: 1%;
+}
+
+.conname {
+    position: absolute;
+    top: 131px;
+    right: 36px;
+}
+
+.conname li {
+    float: right;
+    list-style-type: none;
+    margin: 10px;
+    color: #128aa7;
+    font-size: 12px;
+    font-style: Tahoma;
+}
+
+.contriesPic {
+    position: absolute;
+    top: 82px;
+    right: 31px;
+}
+
+.contriesPic li {
+    float: right;
+    list-style-type: none;
+    margin: 10px;
+}
+
+.menu {
+    width: 1004px;
+    height: 34px;
+    border: 1px solid;
+    position: relative;
+    top: 412px;
+    left: 6px;
+}
+
+.menu li {
+    float: left;
+    list-style-type: none;
+    padding: 22px;
+    margin: 5px;
+}

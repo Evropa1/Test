@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+-------------------
+Главная Путешествие Услуги Партнерам Отзывы клиентов О нас Контакты 
+Путешествие 1
+Путешествие 2
+Путешествие 3
+Путешествие 4
+Путешествие 5
+/* Style for "dropdown_l" */
+width: 150px;
+height: 125px;
+box-shadow: 0 5px 5px rgba(0, 0, 0, 0.75);
+background-color: #303030;
+----------------------------------------
+Информация
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+/* Style for "left_block" */
+width: 210px;
+height: 546px;
+----------------------------------
+Новости
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+--------------------------
+Copyright(C) asia-holidays.com. 2010
