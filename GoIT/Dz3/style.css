@@ -4,7 +4,11 @@ body {
     background-image: url("img/background.jpg");
     width: 1280px;
     height: 1060px;
+    /*font: "Tahoma";*/
 }
+
+
+/**/
 
 .main {
     background: url("img/white-main.png");
@@ -13,6 +17,12 @@ body {
     margin: auto;
     position: relative;
 }
+
+
+/*header start*/
+
+
+/*LOGO start*/
 
 .logo {
     position: absolute;
@@ -26,8 +36,13 @@ body {
     left: 76px;
     color: #128aa7;
     font-size: 12px;
-    font-style: Tahoma;
 }
+
+
+/*logo end*/
+
+
+/*contacts_start*/
 
 .cont {
     width: 124px;
@@ -37,8 +52,13 @@ body {
     right: 42px;
     color: #128aa7;
     font-size: 12px;
-    font-style: Tahoma;
 }
+
+
+/*contacts_end*/
+
+
+/*photo*/
 
 .photo img {
     position: absolute;
@@ -54,6 +74,12 @@ body {
     left: 1%;
 }
 
+
+/*photo_end*/
+
+
+/*contry*/
+
 .conname {
     position: absolute;
     top: 131px;
@@ -61,12 +87,11 @@ body {
 }
 
 .conname li {
-    float: right;
+    display: inline-block;
     list-style-type: none;
     margin: 10px;
     color: #128aa7;
     font-size: 12px;
-    font-style: Tahoma;
 }
 
 .contriesPic {
@@ -76,12 +101,22 @@ body {
 }
 
 .contriesPic li {
-    float: right;
+    display: inline-block;
     list-style-type: none;
     margin: 10px;
 }
 
+
+/*contry_end*/
+
+
+/*Menu*/
+
+
+/*OLD*/
+
 .menu {
+    background: #303030;
     width: 1004px;
     height: 34px;
     border: 1px solid;
@@ -90,9 +125,53 @@ body {
     left: 6px;
 }
 
+.menu ul {
+    position: absolute;
+    margin: 0px;
+    padding-left: 0;
+    float: left;
+}
+
 .menu li {
+    text-align: center;
+    width: 137px;
+    height: 34px;
     float: left;
     list-style-type: none;
-    padding: 22px;
-    margin: 5px;
+}
+
+.menu a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+
+/*OLD*/
+
+
+/*menu_end*/
+
+
+/*sidebar_start*/
+
+.sidebar {
+    float: left;
+    width: 210px;
+    height: 546px;
+    position: absolute;
+    top: 465px;
+    left: 50px;
+}
+
+.news {
+    width: 210px;
+    height: 546px;
+    position: absolute;
+    top: 465px;
+    right: 50px;
+}
+
+.footer p {
+    clear: both;
 }
